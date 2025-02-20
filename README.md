@@ -18,10 +18,10 @@
 
 <br>
 <div align="center">
-   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=Bielxs633&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
+   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=triz27111&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
 </div>
 <div align="center">   
-   <img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxs633&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
+   <img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triz27111&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
 </div>
 
 <div align="center" style="display: inline_block"><br/>
