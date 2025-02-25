@@ -20,12 +20,6 @@
 <div align="center">   
    <img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triz27111&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
 </div>
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=triz27111&bg_color=00000000&color=8A2BE2&line=bb00ff&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
 <div align="center" style="display: inline_block"><br/>
    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0000FF?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,6 +32,13 @@
 <!--   <img align="center" alt="Swifit" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />   -->
 
 </div><br/>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=triz27111&bg_color=00000000&color=8A2BE2&line=bb00ff&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 
 ##
 ### Tools:
